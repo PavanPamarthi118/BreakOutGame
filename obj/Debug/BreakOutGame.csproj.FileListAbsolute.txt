@@ -1,0 +1,9 @@
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.csproj.AssemblyReference.cache
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.Properties.Resources.resources
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.csproj.GenerateResource.cache
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.csproj.CoreCompileInputs.cache
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\bin\Debug\BreakOutGame.exe.config
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\bin\Debug\BreakOutGame.exe
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\bin\Debug\BreakOutGame.pdb
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.exe
+C:\Users\pamarthi\source\repos\BreakOutGame\BreakOutGame\obj\Debug\BreakOutGame.pdb
